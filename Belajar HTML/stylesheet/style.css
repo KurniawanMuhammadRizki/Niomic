@@ -1,0 +1,30 @@
+/* h1{
+    color: darkblue;
+}
+/* h2{
+    color: blue;
+}
+h3{
+    color: rgba(0, 68, 255, 0.87);
+} */
+#hellow{
+    color: rgb(38, 39, 38);
+}
+.belajar{
+    color: red;
+}
+h4,h5,h6{
+    color: cyan;
+} */
+.warnakelas{
+    color: red;
+}
+h2{
+    color:rebeccapurple;
+    background-color: aqua;
+}
+body{
+    background-image: url("https://fsb.zobj.net/crop.php?r=IGLvjDkRt3HjiriYq-gvoXhITfdw7CD3sPmkzHJHzwK0m920f324VG6NVDiDfrEc8qjwmdktq005imYnB4hsyN1Q6DBUET-Z31fIjvpx7PahEka2-uaP5g9ShiVHgPaj8NKQzM7DTHAQLJi2");
+    background-repeat: repeat-y;
+    background-position: center;
+}

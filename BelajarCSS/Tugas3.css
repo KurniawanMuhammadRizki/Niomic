@@ -1,0 +1,14 @@
+p.p_pertama{
+    background-color: orange;
+}
+p.p_kedua{
+    color: white;
+    background-color: blue;
+}
+p.p_ketiga{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p.p_keempat{
+    background-color: grey;
+    font-weight: 800;
+}
